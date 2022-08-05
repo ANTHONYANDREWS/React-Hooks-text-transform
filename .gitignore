@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# files
+/src/components/PracticeTextChange.js
+/src/components/TextChange2.js
+
 # testing
 /coverage
 
